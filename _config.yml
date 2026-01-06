@@ -3,17 +3,17 @@
 #
 
 # Title of your site (displayed in the header)
-title: AAAI-DC 2025
+title: AAAI-DC 2026
 
 # Name of the author
 author: AAAI
 
 # Short bio or description (displayed in the header)
-description: AAAI/SIGAI-25 Doctoral Consortium
+description: AAAI/SIGAI-26 Doctoral Consortium
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/aaai-logo.png
-timezone: America/New_York
+timezone: Asia/Singapore
 #
 # Flags below are optional
 #
@@ -52,7 +52,7 @@ footer-links:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/dc2025"
+baseurl: "/dc2026"
 
 #
 # !! You don't need to change any of the configuration flags below !!
