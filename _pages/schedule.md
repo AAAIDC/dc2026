@@ -5,51 +5,51 @@ permalink: /schedule/
 ---
 
 # Location
-Room 123, Pennsylvania Convention Center, Philadelphia, Pennsylvania 
+Room TBA, Singapore EXPO
 
-# Feb. 25 (Tuesday)
+# Attending the DC as an observer
 
-### Session 1: 8:45am–12:30pm EST
+Non-DC participants are welcome to attend all talks + panel + poster events. The DC dinner is by invitation only.
 
-- [8:45am] Welcome and Logistics, Yue Ning and Lijing Wang.
-  
-- [9:00am-10:00am] **Keynote Talk**: Milind Tambe (Harvard), [AI for Social Impact: Deployed Resource Optimization and Future Acceleration with Foundation Models](../speakers/) \
-Host: Yue Ning
+# Jan 20 (Tuesday)
 
-- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
-  Mentors: Dinesh Jayaraman (UPenn);  Eugene Freuder (UCC); Francesca Rossi (IBM); Harsha Kokel (IBM); Ming Yin (Princeton University)
+### Session 1: 8:45am–12:30pm
 
-- [11:00am-12:00pm]  Poster session 1
- 
-- [12:00pm - 2:00pm] Lunch  
+- [8:45am - 9:00am] Welcoming Remarks and Logistics, Jasper Lee and Roland Yap.
+- [9:00am - 10:00am] **Invited Talk**: Xavier Bresson (NUS), [TBA](../speakers/)
+- [10:00am - 10:30am] Lightning Talks Session A
+- [10:30am - 11:00am] Coffee Break
+- [11:00am - 11:30pm] Lightning Talks Session B
+- [11:30pm - 12:30pm] Poster Session 1
+- [12:30pm - 2:00pm] Lunch, Chatting with Mentors
 
-### Session 2: 2pm–8pm EST
+### Session 2: 2pm–5:30pm
 
-- [2:00pm -- 3:00pm] Poster session 2
-- [3:30pm - 5:00pm] Social and attend Tutorial and Lab Forum, Bridge Program.
-- [5:15 pm – 8:00 pm] Group Dinner for all students (TBD)
+- [2:00pm - 3:30pm] Lightning Talks Session C
+- [3:30pm - 3:45pm] Coffee Break
+- [3:45pm – 4:15pm] Lightning Talks Session D
+- [4:15pm - 5:45pm] Poster Session 2
+- [6:00pm - 6:30pm] AAAI-26 Student Reception (Open to non-DC student conference attendees)
+- [7:40pm - later] DC Dinner (Invited DC student participants only)
 
 
 
-# Feb. 26 (Wednesday)
+# Jan 21 (Wednesday)
 
-### Session 3: 10:00am–12:30pm EST
+### Session 3: 9:00am–12:30pm EST
 
-- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
-  Mentors: Jindong Wang (William & Mary); Francesco Leofante (Imperial College London); Vijay Ganesh (Georgia Institute of Technology); Zhaozhuo Xu (Stevens Institute of Technology); Denghui Zhang (Stevens Institute of Technology)
+- [9:00am - 10:00am] **Keynote Talk**:  Milind Tambe (Harvard), [TBA](../speakers/)
+- [10:00am - 10:30am]  Lightning Talks Session E
+- [10:30pm - 11:00am] Coffee Break
+- [11:00am - 11:30am] Lightning Talks Session F
+- [11:30am - 1:00pm] Poster Session 3
+- [1:00pm - 2:30pm] Lunch, Chatting with Mentors
 
-- [11:00am-12:00pm]  Poster session 3
+### Session 4: 2:30pm–5:30pm EST
 
-- [12:00pm - 2:00pm] Lunch 
-
-### Session 4: 2pm–4:30pm EST
-
-- [2:00pm-3:00pm] **Keynote Talk**:  Dinesh Jayaraman (UPenn), [Engineering Better Robot Learners: Exploitation &amp; Exploration](../speakers/) \
-Host: Lijing Wang
-
-- [3:00pm-4:00pm]  Poster session 4
-
-- [4:00pm-4:30pm] Closing Remarks and Award Announcement
+- [2:30pm - 3:30pm] **Keynote Talk**:  Peter Stone (UT Austin), [TBA](../speakers/)
+- [3:30pm - 4:00pm]  Coffee Break
+- [4:00pm - 5:30pm] **Panel Discussion**: Academia vs Industry. Panelists: Katerina Fragkiadaki (CMU), Sven Koening (UC Irvine), Sean McGregor (Digital Safety Research Institute), Yi Tay (Google DeepMind), William Tjhi (AI Singapore)
 
 
 
