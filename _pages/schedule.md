@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: (Draft) Schedule
 permalink: /schedule/
 ---
 
