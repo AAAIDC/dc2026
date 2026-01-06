@@ -6,7 +6,7 @@ institution: Harvard University
 date: Jan 21st, 2026
 label: Jan 21st, 2026
 time: "9:00 am - 10:00 am"
-day: day1
+day: day2
 website: "https://teamcore.seas.harvard.edu/tambe/"
 image: "/dc2026/images/milind.jpg"
 title: "TBA"
