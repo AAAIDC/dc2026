@@ -1,22 +1,21 @@
 ---
 layout: default
 ---
-<article class="panelist">
+<article class="speaker">
+    <h1>{{ page.title }}</h1>
+    <h2>{{ page.date}} &nbsp; {{ page.time }}</h2>
     <div class="row">
         <div class="column">
             <p class="aligncenter">
-             <img src="/dc2023/{{ page.image }}" alt="{{ page.image }}" style="max-height:300px;">
+             <img src="{{ page.image }}" alt="{{ page.image }}" style="max-height:250px;">
             </p>
         </div>
         <div class="column">
             <p style="font-size:30px"><b>{{ page.name }}</b></p>
-            <p class="aligncenter">{{ page.role }}</p>
             <p class="aligncenter">{{ page.institution }}</p>
-            <p><b>Website</b>: {{ page.website }}</p>
-            <p><b>Bio</b>: {{ page.bio }}</p>
+            <p><b>Website</b>: <a href="{{ page.website }}" target="_blank">{{ page.website }}</a></p>
         </div>
-    </div>
-    <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
-    </div>
+    </div> 
+    <p><b>Abstract</b>: {{ page.abstract }}</p>
+    <p><b>Bio</b>: {{ page.bio }}</p>
 </article>
