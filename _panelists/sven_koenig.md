@@ -1,5 +1,5 @@
 ---
-layout: speaker
+layout: panelist
 name: Sven Koenig
 role: Professor
 institution: University of California, Irvine
