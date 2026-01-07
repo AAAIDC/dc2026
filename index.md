@@ -30,6 +30,6 @@ Singapore EXPO
 # Sponsor
 
 ![](/dc2025/images/AIJ-logo.jpeg)
-![](/dc2025/images/sigai.jpeg)
+![](/dc2025/images/sigai.png)
 
 [Earlier years](/)
