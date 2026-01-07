@@ -29,6 +29,6 @@ Singapore EXPO
 ----------
 # Sponsor
 
-![](/dc2025/images/sigai.png)
+![](/dc2026/images/sigai.png)
 
 [Earlier years](/)
