@@ -5,7 +5,7 @@ role: Head of AI
 institution: AI Singapore
 date: Jan 21st, 2026
 label: Jan 21st, 2026
-time: "12:00 pm - 1:00 pm"
+time: "2:00 pm - 3:00 pm"
 day: day2
 website: "https://sg.linkedin.com/in/william-tjhi-353a0840"
 image: "/dc2026/images/william.jpg"
