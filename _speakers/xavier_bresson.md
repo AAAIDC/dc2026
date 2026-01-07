@@ -7,7 +7,7 @@ date: Jan 20th, 2026
 label: Jan 20th, 2026
 time: "9:00 am - 10:00 am"
 day: day1
-website: "[https://teamcore.seas.harvard.edu/tambe/](https://graphdeeplearning.github.io/authors/xavier-bresson/)"
+website: "https://graphdeeplearning.github.io/authors/xavier-bresson/"
 image: "/dc2026/images/xavier.jpg"
 title: "TBA"
 abstract: "TBA"
