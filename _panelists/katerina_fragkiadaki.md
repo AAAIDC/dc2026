@@ -8,7 +8,7 @@ label: Jan 21st, 2026
 time: "9:00 am - 10:00 am"
 day: day2
 website: "https://www.cs.cmu.edu/~katef/"
-image: "/dc2026/images/katerina.jpg"
+image: "/dc2026/images/katerina.png"
 bio: "Katerina Fragkiadaki is the JPMorgan Chase Associate Professor in the Machine
 Learning Department in Carnegie Mellon University. She received her undergraduate diploma from Electrical and Computer Engineering in the National Technical University of Athens. 
 She received her Ph.D. from University of Pennsylvania and was a postdoctoral fellow in
