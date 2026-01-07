@@ -1,5 +1,5 @@
 ---
-layout: panelist
+layout: speaker
 name: Katerina Fragkiadaki
 role: Associate Professor
 institution: Carnegie Mellon University
