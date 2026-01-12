@@ -5,7 +5,9 @@ permalink: /schedule/
 ---
 
 # Location
-Room TBA, Singapore EXPO
+Room Peridot 206, Singapore EXPO
+
+Posters at poster sesion WS51-WS110.
 
 # Attending the DC as an observer
 
