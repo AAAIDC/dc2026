@@ -9,7 +9,7 @@ time: "9:00 am - 10:00 am"
 day: day1
 website: "https://graphdeeplearning.github.io/authors/xavier-bresson/"
 image: "/dc2026/images/xavier.jpg"
-title: "TBA"
-abstract: "TBA"
+title: "Reflections on Research: Navigating Failure and Success"
+abstract: "This talk provides a personal account of the research process, centered on the growth of Graph Neural Networks. By sharing experiences from my own work, I will examine the inevitable challenges and breakthroughs that define a research career, illustrating how individual contributions help shape an emerging scientific field."
 bio: "Xavier Bresson (PhD 2005, EPFL, Switzerland) is Associate Professor in Computer Science at NUS, Singapore. He is a leading researcher in the field of Graph Deep Learning, a new framework that combines graph theory and deep learning techniques to tackle complex data domains in natural language processing, computer vision, combinatorial optimization, quantum chemistry, physics, neuroscience, genetics and social networks. He has published more than 60 peer-reviewed papers in the leading journals and conference proceedings in machine learning, including articles in NeurIPS, ICML, ICLR, CVPR, JMLR, and has organized multiple international workshops and tutorials on AI and deep learning."
 ---
