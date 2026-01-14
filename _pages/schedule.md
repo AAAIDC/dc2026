@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (Draft) Schedule
+title: Schedule
 permalink: /schedule/
 ---
 
@@ -18,7 +18,7 @@ Non-DC participants are welcome to attend all talks + panel + poster events. The
 ### Session 1: 8:45am–12:30pm
 
 - [8:45am - 9:00am] Welcoming Remarks and Logistics, Jasper Lee and Roland Yap.
-- [9:00am - 10:00am] **Invited Talk**: Xavier Bresson (NUS), [TBA](../speakers/)
+- [9:00am - 10:00am] **Invited Talk**: Xavier Bresson (NUS), [Reflections on Research: Navigating Failure and Success](../speakers/)
 - [10:00am - 10:30am] Lightning Talks Session A
 - [10:30am - 11:00am] Coffee Break
 - [11:00am - 11:30pm] Lightning Talks Session B
@@ -49,9 +49,9 @@ Non-DC participants are welcome to attend all talks + panel + poster events. The
 
 ### Session 4: 2:30pm–5:30pm EST
 
-- [2:30pm - 3:30pm] **Invited Talk**:  Peter Stone (UT Austin), [TBA](../speakers/)
+- [2:30pm - 3:30pm] **Invited Talk**:  Peter Stone (UT Austin), [Getting a Job after Grad School](../speakers/)
 - [3:30pm - 4:00pm]  Coffee Break
-- [4:00pm - 5:30pm] **Panel Discussion**: Academia vs Industry. Panelists: Katerina Fragkiadaki (CMU), Sven Koening (UC Irvine), Sean McGregor (Digital Safety Research Institute), Yi Tay (Google DeepMind), William Tjhi (AI Singapore)
+- [4:00pm - 5:30pm] **Panel Discussion**: Academia vs Industry. Panelists: Katerina Fragkiadaki (CMU), Sven Koening (UC Irvine), Sean McGregor (Digital Safety Research Institute), William Tjhi (AI Singapore)
 
 
 
