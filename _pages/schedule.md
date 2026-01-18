@@ -40,7 +40,7 @@ Non-DC participants are welcome to attend all talks + panel + poster events. The
 
 ### Session 3: 9:00am–12:30pm EST
 
-- [9:00am - 10:00am] **Invited Talk**:  Milind Tambe (Harvard), [TBA](../speakers/)
+- [9:00am - 10:00am] **Invited Talk**:  Milind Tambe (Harvard), [Generative AI for Global Social Impact: Towards Solving the Deployment Bottleneck](../speakers/)
 - [10:00am - 10:30am]  Lightning Talks Session E
 - [10:30pm - 11:00am] Coffee Break
 - [11:00am - 11:30am] Lightning Talks Session F
