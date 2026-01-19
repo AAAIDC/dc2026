@@ -51,7 +51,7 @@ Non-DC participants are welcome to attend all talks + panel + poster events. The
 
 - [2:30pm - 3:30pm] **Invited Talk**:  Peter Stone (UT Austin), [Getting a Job after Grad School](../speakers/)
 - [3:30pm - 4:00pm]  Coffee Break
-- [4:00pm - 5:30pm] **Panel Discussion**: Academia vs Industry. Panelists: Katerina Fragkiadaki (CMU), Sven Koening (UC Irvine), Sean McGregor (Digital Safety Research Institute), William Tjhi (AI Singapore)
+- [4:00pm - 5:30pm] **Panel Discussion**: Academia vs Industry. Panelists: Katerina Fragkiadaki (CMU), Sven Koenig (UC Irvine), Sean McGregor (Digital Safety Research Institute), William Tjhi (AI Singapore)
 
 
 
