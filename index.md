@@ -3,6 +3,8 @@ layout: page
 permalink: /
 ---
 
+![](/dc2026/images/PHOTO-2026-01-20-11-49-59.jpg)
+
 The 31st AAAI Doctoral Consortium (DC) will provide a group of PhD students with the opportunity to present, discuss, and explore their research interests and career objectives with established researchers in AI. Its objectives are to:
 - Provide a setting for students to receive feedback on their current research and guidance on future research directions
 - Develop a supportive community of scholars and a spirit of collaborative research
