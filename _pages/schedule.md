@@ -38,7 +38,7 @@ Non-DC participants are welcome to attend all talks + panel + poster events. The
 
 # Jan 21 (Wednesday)
 
-### Session 3: 9:00am–12:30pm EST
+### Session 3: 9:00am–12:30pm
 
 - [9:00am - 10:00am] **Invited Talk**:  Milind Tambe (Harvard), [Generative AI for Global Social Impact: Towards Solving the Deployment Bottleneck](../speakers/)
 - [10:00am - 10:30am]  Lightning Talks Session E
@@ -47,7 +47,7 @@ Non-DC participants are welcome to attend all talks + panel + poster events. The
 - [11:30am - 1:00pm] Poster Session 3
 - [1:00pm - 2:30pm] Lunch, Chatting with Mentors
 
-### Session 4: 2:30pm–5:30pm EST
+### Session 4: 2:30pm–5:30pm
 
 - [2:30pm - 3:30pm] **Invited Talk**:  Peter Stone (UT Austin), [Getting a Job after Grad School](../speakers/)
 - [3:30pm - 4:00pm]  Coffee Break
